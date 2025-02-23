@@ -23,7 +23,7 @@ class RajaSoft{
 			}
 		}
 
-		for(int i = num+1;; i--){
+		for(int i = num+1;; i++){
 			boolean flag = true;
 
 			for(int j=2;j<i;j++){

@@ -1,6 +1,6 @@
 class PrimeFactOfNum{
 	public static void main(String[] args) {
-		int num=10;
+		int num=15;
 
 		for(int i=1; i<=num; i++){
 			if(num%i==0){ //1 2 5 10
