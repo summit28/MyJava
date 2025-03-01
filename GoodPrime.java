@@ -5,5 +5,6 @@ class GoodPrime{
 		System.out.print("Enter the number:");
 		int n = sc.nextInt();
 		System.out.print(n);
+		
 	}
 }

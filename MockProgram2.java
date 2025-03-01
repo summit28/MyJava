@@ -1,7 +1,7 @@
 class MockProgram2{
 	public static void main(String[] args) {
 		
-		int range = 20;
+		int range = 30;
 		for(int k=1; k<=range; k++){
 			int num = k;
 			boolean flag = true;

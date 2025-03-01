@@ -14,6 +14,7 @@ class GoodPrimeInRange{
 					break;
 				}
 			}
+			
 			if(flag){
 				int rem = i%10;
 				if(i==2 || i==3 || i==5 || i==7){
